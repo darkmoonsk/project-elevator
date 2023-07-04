@@ -22,13 +22,6 @@ O projeto do elevador possui as seguintes funcionalidades:
 3. **Indicação de andar atual:** O sistema mostra o andar atual do elevador, permitindo que os usuários saibam em qual andar o elevador está localizado no momento.
 <!-- 4. **Botões de controle:** O elevador possui botões de controle dentro de sua cabine e também nos andares do edifício, permitindo que os usuários chamem o elevador de qualquer andar e selecionem o andar desejado. -->
 
-## Requisitos
-
-Antes de executar o projeto do elevador, certifique-se de que o seguinte ambiente esteja configurado:
-
-- Linguagem de programação: JavaScript
-- Tecnologias: HTML5, CSS3
-
 ## Instalação
 
 1. Clone o repositório do projeto para o seu ambiente local.
